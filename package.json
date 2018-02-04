@@ -1,0 +1,22 @@
+{
+  "name": "generator-angulargen",
+  "version": "0.0.2",
+  "description": "Yeoman generator for Angular application folder structure",
+  "author": {
+    "name": "Shruti Uppin",
+    "email": "shrutiuppin149@gmail.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "angularjs"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "underscore.string": "^3.2.3",
+    "yeoman-generator": "0.22.5",
+    "yosay": "^1.1.0"
+  }
+}

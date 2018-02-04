@@ -1,0 +1,17 @@
+{
+  "name": "<%= appname %>",
+  "version": "0.0.1",
+  "dependencies":{
+    "angular": "^1.6.9",
+    "angular-animate": "^1.6.9",
+    "angular-touch": "^1.6.9",
+    "angular-ui-router": "^1.0.3",
+    "jquery": "^3.3.1",
+    "materialize-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  },
+  "private": true
+}
